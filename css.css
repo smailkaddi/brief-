@@ -1,0 +1,143 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.menu{
+    float: right;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 25px; 
+  
+}
+li{
+    margin: 0px 20px;
+}
+
+a{
+color:white;
+text-decoration: none;
+}
+header{
+width: 100%;
+height: 800px;
+background-image: url(Layer1.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+p{
+    position: relative;
+    text-align: center;
+   
+}
+.article1{
+    text-align: start;
+    color: white;
+    background-image: url(Rectangle2.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    
+    
+}
+.ourfood{
+    font-size: 30px;
+    position: relative;
+    left: 200px;
+}
+
+.images{
+   width: 80%;
+   height: 920px;
+   position: relative;
+   top: 75px;
+   display: flex;
+   justify-content: center;
+   margin: 0px 20px;
+   
+}
+.img1{
+ display: flex;
+background-image: url(Layer6.png);
+background-size: cover;
+width: 30%;
+height: 88%;
+justify-content: center;
+position: relative;
+margin-right: 40px;
+
+}
+
+.img2{
+    display: flex;
+    background-image: url(Layer7.png);
+    background-size: cover;
+    width: 30%;
+    height: 88%;
+    justify-content: center;
+    position: relative;
+    margin-right: 40px;
+}
+
+.img3{
+    display: flex;
+    background-image: url(Layer8.png);
+    background-size: cover;
+    width: 30%;
+    height: 88%;
+    justify-content: center;
+    position: relative;
+    margin-right: 40px;
+}
+.contenu{
+    background-color: #D24F4B;
+    width: 200px;
+    height: 300px;
+    position: relative;
+    top: 25%;
+}
+.Section3{
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+.map{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.map1{
+    position: absolute;
+    margin-top: 191px;
+    margin-left: 85px;
+}
+
+.footer{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 25px; 
+    background-color: #DC5352;
+    margin: 0px;
+}
+
+.footer2{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+    background-image: url(Layer26.png);
+    background-size: cover;
+}
+.ourplace{
+ font-size: 50px;
+}
+
+
+
+
+
